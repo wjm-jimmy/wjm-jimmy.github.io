@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Control Theory and Engineering, Xidian University
+subtitle: Control Science and Engineering, Xidian University
 
 profile:
   align: left
