@@ -5,8 +5,8 @@ permalink: /
 subtitle: Control Theory and Engineering, Xidian University
 
 profile:
-  align: right
-  image: prof_pic.jpg
+  align: left
+  image: profile_photo.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
