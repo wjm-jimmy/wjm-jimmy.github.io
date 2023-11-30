@@ -6,7 +6,7 @@ subtitle: Control Science and Engineering, Xidian University
 
 profile:
   align: left
-  image: profile_photo.png{:width="50%" height="50%"}
+  image: profile_photo.png
   image_circular: false # crops the image to make it circular
 #  more_info: >
 #    <p>555 your office number</p>
