@@ -71,9 +71,9 @@
       items: 
         - Nobel Prize in Physics 
         - Matteucci Medal
-    - year: 2029
+    - year: 2015
       items: 
-        - Max Planck Medal
+        - Outstanding Undergraduate Graduation Thesis
 
 - title: Academic Interests
   type: nested_list
@@ -83,6 +83,7 @@
 #        - Description 1.
 #        - Description 2.
     - title: Complex Networks
+    - title: Collective Intelligence
 #      items:
 #        - Description 1.
 #        - Description 2.
