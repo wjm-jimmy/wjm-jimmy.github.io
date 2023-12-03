@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A paper have been accepted by Automatica ! 😊
+A paper has been accepted by Automatica ! 😊
