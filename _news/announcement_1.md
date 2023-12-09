@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-12-02
+date: 2023-12-09
 inline: true
 related_posts: false
 ---
 
-A paper has been accepted by Automatica ! 😊
+A paper has been accepted by TAC as a **Full Paper** ! 🥰
