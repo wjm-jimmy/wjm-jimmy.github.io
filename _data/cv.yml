@@ -22,7 +22,7 @@
       institution: Chang'an University, China
       year: 2019
       description:
-        - Automation Science
+        - Automation
         
 #- title: Experience
 # type: time_table
@@ -67,28 +67,38 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2024
+      items: 
+        - **The First Prize**, Academic Scholarship of Xidian University
     - year: 2023
       items: 
-        - Outstanding Graduate Student
+        -  **Top 15%**, Outstanding Graduate Student of Xidian University
     - year: 2020
       items: 
-        - Outstanding Graduate Student
+        -  **The First Prize**, Academic Scholarship of Xidian University
     - year: 2019
       items: 
-        - Outstanding Undergraduate Graduation Thesis
+        - **Top 3%**, Outstanding Senior Thesis of Chang’an University
 
-- title: Academic Interests
+- title: Research Interests
   type: nested_list
   contents:
-    - title: Multi-agent Systems
-#      items: 
-#        - Description 1.
-#        - Description 2.
+    - title: Multi-agent Networks
+      items: 
+        - Coordination control
+        - Robust Control
+        - Networked dynamics
+        - Protocol selection
+        - Topological features
+        - Collective performance
+        - Game theory
     - title: Complex Networks
     - title: Collective Intelligence
-#      items:
-#        - Description 1.
-#        - Description 2.
+      items:
+         - Heterogeneity
+         - Fractal networks
+         - Physical networks
+         - Higher-order networks
 
 #- title: Other Interests
 #  type: list
