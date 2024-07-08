@@ -92,12 +92,14 @@
         - Topological features.
         - Collective performance.
         - Game theory.
+        
     - title: Complex Networks.
           items:
          - Heterogeneity.
          - Fractal networks.
          - Physical networks.
          - Higher-order networks.
+         
     - title: Collective Intelligence
 
 
