@@ -69,16 +69,16 @@
   contents:
     - year: 2024
       items: 
-        - **The First Prize**, Academic Scholarship of Xidian University
+        - The First Prize, Academic Scholarship of Xidian University
     - year: 2023
       items: 
-        -  **Top 15%**, Outstanding Graduate Student of Xidian University
+        -  Top 15%, Outstanding Graduate Student of Xidian University
     - year: 2020
       items: 
-        -  **The First Prize**, Academic Scholarship of Xidian University
+        -  The First Prize, Academic Scholarship of Xidian University
     - year: 2019
       items: 
-        - **Top 3%**, Outstanding Senior Thesis of Chang’an University
+        - Top 3%, Outstanding Senior Thesis of Chang’an University
 
 - title: Research Interests
   type: nested_list
