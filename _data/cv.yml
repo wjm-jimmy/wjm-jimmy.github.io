@@ -69,29 +69,35 @@
   contents:
     - year: 2024
       items: 
-        - **The First Prize**, Academic Scholarship of Xidian University
+        - Academic Scholarship of Xidian University (The First Prize)
     - year: 2023
       items: 
-        -  __Top 15%__, Outstanding Graduate Student of Xidian University
+        - Outstanding Graduate Student of Xidian University (Top 15%)
     - year: 2020
       items: 
-        -  The First Prize, Academic Scholarship of Xidian University
+        -  Academic Scholarship of Xidian University (The First Prize)
     - year: 2019
       items: 
-        - Top 3%, Outstanding Senior Thesis of Chang’an University
+        - Outstanding Senior Thesis of Chang’an University (Top 3%)
 
 - title: Research Interests
   type: nested_list
   contents:
     - title: Multi-agent Networks
-#      items: 
-#        - Coordination control
-#        - Robust Control
-#        - Networked dynamics
-#        - Protocol selection
-#        - Topological features
-#        - Collective performance
-#        - Game theory
+      items: 
+        - Coordination control
+      items: 
+        - Robust Control
+      items: 
+        - Networked dynamics
+      items: 
+        - Protocol selection
+      items: 
+        - Topological features
+      items: 
+        - Collective performance
+      items: 
+        - Game theory
     - title: Complex Networks
 #          items:
 #         - Heterogeneity
