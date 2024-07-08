@@ -93,12 +93,13 @@
         - Collective performance
         - Game theory
     - title: Complex Networks
-    - title: Collective Intelligence
-      items:
+          items:
          - Heterogeneity
          - Fractal networks
          - Physical networks
          - Higher-order networks
+    - title: Collective Intelligence
+
 
 #- title: Other Interests
 #  type: list
