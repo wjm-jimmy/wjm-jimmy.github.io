@@ -83,34 +83,21 @@
 - title: Research Interests
   type: nested_list
   contents:
-    - title: Multi-agent Networks
-    
+    - title: Multi-agent Networks.
       items: 
-        - Coordination control
-        
-      items: 
-        - Robust Control
-        
-      items: 
-        - Networked dynamics
-        
-      items: 
-        - Protocol selection
-        
-      items: 
-        - Topological features
-        
-      items: 
-        - Collective performance
-        
-      items: 
-        - Game theory
-    - title: Complex Networks
-#          items:
-#         - Heterogeneity
-#         - Fractal networks
-#         - Physical networks
-#         - Higher-order networks
+        - Coordination control.
+        - Robust Control.
+        - Networked dynamics.
+        - Protocol selection.
+        - Topological features.
+        - Collective performance.
+        - Game theory.
+    - title: Complex Networks.
+          items:
+         - Heterogeneity.
+         - Fractal networks.
+         - Physical networks.
+         - Higher-order networks.
     - title: Collective Intelligence
 
 
