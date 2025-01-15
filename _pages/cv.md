@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download the CV](http://wjm-jimmy.github.io/files/CV_on_homepage_Jiamin Wang.pdf)
+[Download the CV](https://wjm-jimmy.github.io/files/CV_on_homepage_Jiamin Wang.pdf)
 
 Education
 ======
