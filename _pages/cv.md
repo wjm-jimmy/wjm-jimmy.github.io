@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download the CV](http://wjm-jimmy.github.io/files/CV_on_homepage_Jiamin Wang.pdf)
+
 Education
 ======
 * Ph.D in Control Science and Engineering, Xidian University, 2024
