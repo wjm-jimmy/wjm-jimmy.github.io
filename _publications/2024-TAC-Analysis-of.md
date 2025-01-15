@@ -1,10 +1,10 @@
 ---
-title: '1. Analysis of \\(H_\infty\\) performance for multi-agent networks'
+title: '4.Analysis of \\(H_\infty\\) performance for multi-agent networks'
 collection: publications
 category: manuscripts
 permalink: /publication/2024-TAC-Analysis-of
 excerpt: 'Authors: **Jiamin Wang**, Jian Liu, Yuanshi Zheng, and Jianxiang Xi'
-date: 2024-8
+date: 2024-08
 venue: 'IEEE Transactions on Automatic Control (<b>Full Paper</b>), 360(6): 69(8): 5125-5140'
 paperurl: 'https://doi.org/10.1109/TAC.2023.3342060'
 ---
