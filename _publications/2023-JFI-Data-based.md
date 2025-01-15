@@ -1,5 +1,5 @@
 ---
-title: "1. Data-based \(\mathcal{L}_2\) gain optimal control for discrete-time system with unknown dynamics"
+title: "1. Data-based \\\\(\mathcal{L}_2\\\\) gain optimal control for discrete-time system with unknown dynamics"
 collection: publications
 category: manuscripts
 permalink: /publication/2023-JFI-Data-based
