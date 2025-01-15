@@ -1,5 +1,5 @@
 ---
-title: '2.Consensus of hybrid behavior for graphical coordination games'
+title: '1. Consensus of hybrid behavior for graphical coordination games'
 collection: publications
 category: manuscripts
 permalink: /publication/2023-TCSII-Consensus-of
