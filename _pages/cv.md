@@ -35,7 +35,7 @@ Research Interests
 
 Work Experience
 ======
-* 2025.03.01 ~ : Postdoctoral Fellow
+* Feb. 2025 ~ Present: Postdoctoral Fellow
   * School of Mechano-electronic Engineerin, Xidian University
 
 Honors & Awards
