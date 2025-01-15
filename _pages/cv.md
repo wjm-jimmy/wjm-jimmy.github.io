@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-
 Education
 ======
 * Ph.D in Control Science and Engineering, Xidian University, 2024
