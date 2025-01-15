@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I’m currently a Postdoctoral Fellow with the School of Mechano-Electronic Engineering, Xidian University. I received the B.S. degree in automation from Chang’an University, Xi’an, China, in 2019, and the Ph.D. degree in control science and engineering from Xidian University, Xi’an, China, in 2024. My research interests include robust control, multi-agent systems, complex networks, and collective intelligence. Please feel free to contact me at wangjiamin21@outlook.com if you would like to discuss possible collaboration or shared interests.
+Hi, I’m currently a Postdoctoral Fellow with the School of Mechano-Electronic Engineering, Xidian University. I received the B.S. degree in automation from Chang’an University, Xi’an, China, in 2019, and the Ph.D. degree in control science and engineering from Xidian University, Xi’an, China, in 2024. My research interests include robust control, multi-agent systems, complex networks, and collective intelligence. Please feel free to contact me at **wangjiamin21@outlook.com** if you would like to discuss possible collaboration or shared interests.
 
 Latest News
 ======
@@ -15,6 +15,7 @@ Latest News
 
 Selected Publications
 ======
+
 Journal Articles
 ------
 1. **Jiamin Wang**, Jian Liu, Feng Xiao, and Yuanshi Zheng (2025). Robustness and scalability of consensus networks: the role of memory information. *IEEE Transactions on Automatic Control* (**Full Paper**, Accepted).
