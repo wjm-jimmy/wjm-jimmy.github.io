@@ -3,7 +3,7 @@ title: '1.Data-based \\(\mathcal{L}_2\\) gain optimal control for discrete-time 
 collection: publications
 category: manuscripts
 permalink: /publication/2023-JFI-Data-based
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'Author list: Jiamin Wang, Jian Liu, Yuanshi Zheng, and Dong Zhang'
 date: 2023-02-24
 venue: 'Journal of the Franklin Institute'
 paperurl: 'https://doi.org/10.1016/j.jfranklin.2023.02.030'
