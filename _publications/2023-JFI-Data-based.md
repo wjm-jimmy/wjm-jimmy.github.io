@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2023-JFI-Data-based
 excerpt: 'Authors: **Jiamin Wang**, Jian Liu, Yuanshi Zheng, and Dong Zhang'
 date: 2023-02-24
-venue: 'Journal of the Franklin Institute (<b>Full Paper</b>)'
+venue: 'Journal of the Franklin Institute'
 paperurl: 'https://doi.org/10.1016/j.jfranklin.2023.02.030'
 ---
 
