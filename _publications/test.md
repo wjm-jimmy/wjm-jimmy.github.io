@@ -1,5 +1,5 @@
 ---
-title: "1.Data-based \\(\mathcal{L}_2\\) gain optimal control for discrete-time system with unknown dynamics"
+title: '1.Data-based \\(\mathcal{L}_2\\) gain optimal control for discrete-time system with unknown dynamics'
 ---
 
 Authors: **Jiamin Wang**, Jian Liu, Yuanshi Zheng, and Dong Zhang
