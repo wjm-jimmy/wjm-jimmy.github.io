@@ -9,56 +9,45 @@ redirect_from:
 
 {% include base_path %}
 
+[Download the CV](https://wjm-jimmy.github.io/files/CV_on_homepage_Jiamin Wang.pdf)
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Control Science and Engineering, Xidian University, 2024
+* B.S. in Automation, Chang'an University, 2019
 
-Work experience
+Research Interests
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Multi-Agent Networks
+  * Coordination control
+  * Robust control
+  * Protocol selection
+  * Topological features
+  * Collective performance
+  * Game theory
+  * Distributed optimization
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Complex Networks
+  * Heterogeneity
+  * Fractal networks
+  * Physical networks
+  * Higher-order networks
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Work Experience
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Feb. 2025 ~ Present: Postdoctoral Fellow
+  * School of Mechano-electronic Engineerin, Xidian University
 
-Publications
+Honors & Awards
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* National Scholarship for Graduate Student, Xi'an, China, 2024
+* The First Prize Academic Scholarship of Xidian University, Xi'an, China, 2024
+* Outstanding Graduate Student of Xidian University (**Top 15%**), Xi'an, China, 2023
+* The First Prize Academic Scholarship of Xidian University, Xi'an, China, 2020
+* Outstanding Undergraduate Graduation Thesis of Chang'an University (**Top 3%**), Xi'an, China, 2019
+
+Service
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Reviewer
+  * IEEE Transactions on Automatic Control
+  * International Journal of Robust and Nonlinear Control
