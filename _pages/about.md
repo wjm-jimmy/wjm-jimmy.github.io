@@ -18,7 +18,7 @@ Selected Publications
 
 Journal Articles
 ------
-1. <p class="underline">这段文字会有下划线</p>**Jiamin Wang**, Jian Liu, Feng Xiao, and Yuanshi Zheng (2025). [Robustness and scalability of consensus networks: the role of memory information](https://doi.org/10.1109/TAC.2025.3530855). *IEEE Transactions on Automatic Control* (**Full Paper**, Early Access).
+1. <p class="underline">**Jiamin Wang**</p>, Jian Liu, Feng Xiao, and Yuanshi Zheng (2025). [Robustness and scalability of consensus networks: the role of memory information](https://doi.org/10.1109/TAC.2025.3530855). *IEEE Transactions on Automatic Control* (**Full Paper**, Early Access).
 2. **Jiamin Wang**, Jian Liu, Yuanshi Zheng, and Jianxiang Xi (2024). [Analysis of \\(H_\infty\\) performance for multi-agent networks](https://doi.org/10.1109/TAC.2023.3342060). *IEEE Transactions on Automatic Control* (**Full Paper**), 69(8): 5125--5140.
 3. **Jiamin Wang**, Liqi Zhou, Dong Zhang, Jian Liu, Feng Xiao, and Yuanshi Zheng (2024). [Protocol selection for second-order consensus against disturbance](https://doi.org/10.1016/j.automatica.2023.111497). *Automatica*, 161: 111497.
 
