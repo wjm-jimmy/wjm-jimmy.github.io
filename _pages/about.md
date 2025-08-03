@@ -11,6 +11,7 @@ Hi, I’m currently a Postdoctoral Fellow with the School of Mechano-Electronic 
 
 Latest News
 ======
+* 2025.8.3: A paper has been accepted by *IEEE Transactions on Automatic Control*!
 * 2025.1.7: A paper has been accepted by *IEEE Transactions on Automatic Control* as **Full Paper**!
 
 Selected Publications
