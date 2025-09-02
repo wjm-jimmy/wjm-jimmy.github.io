@@ -50,4 +50,5 @@ Service
 ======
 * Reviewer
   * IEEE Transactions on Automatic Control
+  * IEEE Transactions on Industrial Electronics
   * International Journal of Robust and Nonlinear Control
