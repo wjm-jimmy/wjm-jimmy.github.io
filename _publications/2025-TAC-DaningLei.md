@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2025-TAC-DaningLei
 excerpt: 'Authors: Daning Lei, **Jiamin Wang**, Jian Liu, Jianxiang Xi, and Yuanshi Zheng'
 date: 2025-08-07
-venue: 'IEEE Transactions on Automatic Control, 2025'
+venue: 'IEEE Transactions on Automatic Control, Early Access'
 paperurl: 'https://doi.org/10.1109/TAC.2025.3597241'
 ---
 
