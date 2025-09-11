@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2025-TAC-Robustness-and-scalability
 excerpt: 'Authors: **Jiamin Wang**, Jian Liu, Feng Xiao, and Yuanshi Zheng'
 date: 2025-08-01
-venue: 'IEEE Transactions on Automatic Control, (<b>Full Paper</b>)'
+venue: 'IEEE Transactions on Automatic Control (<b>Full Paper</b>), 70(8), 4944-4959, 2025'
 paperurl: 'https://doi.org/10.1109/TAC.2025.3530855'
 ---
 
