@@ -25,7 +25,7 @@ Journal Articles
 3. **<u>Jiamin Wang</u>**, Jian Liu, Yuanshi Zheng*, and Jianxiang Xi (2024). [Analysis of \\(H_\infty\\) performance for multi-agent networks](https://doi.org/10.1109/TAC.2023.3342060). *IEEE Transactions on Automatic Control* (**Full Paper**), 69(8): 5125--5140.
 4. **<u>Jiamin Wang</u>**, Liqi Zhou, Dong Zhang, Jian Liu, Feng Xiao, and Yuanshi Zheng* (2024). [Protocol selection for second-order consensus against disturbance](https://doi.org/10.1016/j.automatica.2023.111497). *Automatica*, 161: 111497.
 5. Daning Lei, **<u>Jiamin Wang</u>**, Jian Liu, Jianxiang Xi, and Yuanshi Zheng* (2026). [Distributed Nash equilibrium seeking in two-coalition zero-sum games under edge agreements](https://doi.org/10.1109/TAC.2025.3597241). *IEEE Transactions on Automatic Control*, 71(1): 622--629.
-6. Xue Wang, **<u>Jiamin Wang</u>***, Jian Liu, Yiqun Zhang, and Yuanshi Zheng (2026). [The role of memory information in privacy-preserving average consensus](https://doi.org/10.1109/TSIPN.2026.3705691) *IEEE Transactions on Signal and Information Processing over Networks*, 12: 821--836. 
+6. Xue Wang, **<u>Jiamin Wang</u>***, Jian Liu, Yiqun Zhang, and Yuanshi Zheng (2026). [The role of memory information in privacy-preserving average consensus](https://doi.org/10.1109/TSIPN.2026.3705691). *IEEE Transactions on Signal and Information Processing over Networks* (**Regular Paper**), 12: 821--836. 
 
 Conference Papers
 ------
