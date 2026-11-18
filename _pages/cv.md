@@ -40,15 +40,26 @@ Work Experience
 
 Honors & Awards
 ======
-* National Scholarship for Graduate Student, Xi'an, China, 2024
-* The First Prize Academic Scholarship of Xidian University, Xi'an, China, 2024
-* Outstanding Graduate Student of Xidian University (**Top 15%**), Xi'an, China, 2023
-* The First Prize Academic Scholarship of Xidian University, Xi'an, China, 2020
-* Outstanding Undergraduate Graduation Thesis of Chang'an University (**Top 3%**), Xi'an, China, 2019
+* Outstanding Scientific and Technological Research Achievements of Higher Education Institutions in Shaanxi Province (**First Prize**), China, 2026
+* Postdoctoral Innovation and Entrepreneurship Competition in Shaanxi Province (**Gold Prize**), 2026
+* Zhuoyi Cup - the Third National Cluster Intelligence Technology Challenge Competition (**Second Prize**), 2026
+* National Scholarship for Graduate Student, China, 2024
+* Academic Scholarship of Xidian University (**First Prize**), China, 2024
+* Outstanding Graduate Student of Xidian University (**Top 15%**), China, 2023
+* Academic Scholarship of Xidian University (**First Prize**), China, 2020
+* Outstanding Undergraduate Graduation Thesis of Chang'an University (**Top 3%**),  China, 2019
 
 Service
 ======
 * Reviewer
   * IEEE Transactions on Automatic Control
   * IEEE Transactions on Industrial Electronics
+  * IEEE Transactions on Systems, Man and Cybernetics: Systems
+  * Systems & Control Letters
+  * ISA Transactions
   * International Journal of Robust and Nonlinear Control
+  * IEEE Systems Journal
+  * The Journal of Engineering
+  * IFAC World Congress
+  * IEEE Conference on Decision and Control
+  * American Control Conference
